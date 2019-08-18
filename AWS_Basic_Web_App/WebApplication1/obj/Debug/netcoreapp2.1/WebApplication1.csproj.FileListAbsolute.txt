@@ -14,8 +14,6 @@ G:\AWS_CLI_Learning\AWS_Basic_Web_App\WebApplication1\obj\Debug\netcoreapp2.1\We
 G:\AWS_CLI_Learning\AWS_Basic_Web_App\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.TagHelpers.input.cache
 G:\AWS_CLI_Learning\AWS_Basic_Web_App\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.TagHelpers.output.cache
 G:\AWS_CLI_Learning\AWS_Basic_Web_App\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorCoreGenerate.cache
-G:\AWS_CLI_Learning\AWS_Basic_Web_App\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
-G:\AWS_CLI_Learning\AWS_Basic_Web_App\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
 G:\AWS_CLI_Learning\AWS_Basic_Web_App\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
 G:\AWS_CLI_Learning\AWS_Basic_Web_App\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
 G:\AWS_CLI_Learning\AWS_Basic_Web_App\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
